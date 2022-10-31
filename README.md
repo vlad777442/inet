@@ -13,8 +13,10 @@
 
 ## Лабораторная работа № 2 :closed_book:
 
+Разработка веб-приложения[Страница с игрой в пинг понг](https://github.com/vlad777442/ping-pong-game "Page")
+
 ## Лабораторная работа № 3 :closed_book:
 
 Работа с Cisco Packet Tracer
 
-1. [Страница со сценарием Cisco Packet Tracer](https://vlad777442.github.io/inet "Page")
+[Страница со сценарием Cisco Packet Tracer](https://vlad777442.github.io/inet "Page")
