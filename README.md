@@ -12,3 +12,9 @@
 Веб-страница с описанием лабораторных работ доступна по ссылке: [Страница для курса](https://vlad777442.github.io/inet "Page")
 
 ## Лабораторная работа № 2 :closed_book:
+
+## Лабораторная работа № 3 :closed_book:
+
+Работа с Cisco Packet Tracer
+
+1. [Страница со сценарием Cisco Packet Tracer](https://vlad777442.github.io/inet "Page")
