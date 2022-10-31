@@ -32,4 +32,4 @@
 [Ссылка на файл](https://github.com/vlad777442/inet/blob/main/esaulov-cisco.pkt "Page")
 
 ## Экзаменационный билет № 18
-[Ссылка на ответ](https://github.com/vlad777442/inet/blob/main/esaulov-cisco.pkt "Page")
+[Ссылка на ответ](https://github.com/stankin/inet-2022/wiki/exam18 "Page")
