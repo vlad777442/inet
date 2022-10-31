@@ -31,5 +31,5 @@
 5. Также был отправлен пинг на сервер с PC2. 
 [Ссылка на файл](https://github.com/vlad777442/inet/blob/main/esaulov-cisco.pkt "Page")
 
-№№ Экзаменационный билет № 18
+## Экзаменационный билет № 18
 [Ссылка на ответ](https://github.com/vlad777442/inet/blob/main/esaulov-cisco.pkt "Page")
