@@ -13,7 +13,7 @@
 
 ## Лабораторная работа № 2 :closed_book:
 
-Разработка веб-приложения[Страница с игрой в пинг понг](https://github.com/vlad777442/ping-pong-game "Page")
+Разработка веб-приложения [Страница с игрой в пинг понг](https://github.com/vlad777442/ping-pong-game "Page")
 
 ## Лабораторная работа № 3 :closed_book:
 
