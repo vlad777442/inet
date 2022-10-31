@@ -14,7 +14,7 @@
 ## Лабораторная работа № 2 :green_book:
 
 1. Разработка веб-приложения (html,css,js + json,xml) [Страница с игрой в пинг понг](https://github.com/vlad777442/ping-pong-game "Page")
-2. Работа над проектом ведется в команде [ProgrammersOfLuck](https://github.com/fireru277/inet2022/wiki "Page")
+2. Также ведется работа над проектом в команде [ProgrammersOfLuck](https://github.com/fireru277/inet2022/wiki "Page")
 
 ## Лабораторная работа № 3 :green_book:
 
